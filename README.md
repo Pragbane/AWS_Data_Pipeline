@@ -1,1 +1,9 @@
-# AWS_Data_Pipeline
+![image](https://user-images.githubusercontent.com/54443903/160151785-f1176d5e-4ac9-4c3a-879d-a7fe66b68624.png)
+![image](https://user-images.githubusercontent.com/54443903/160151838-cd4e9943-4469-4e27-81ac-a8268d947aee.png)
+![image](https://user-images.githubusercontent.com/54443903/160151848-5ae08fb8-5b1b-47dd-b4e0-7b7c557bf2f9.png)
+![image](https://user-images.githubusercontent.com/54443903/160151863-348e8b87-be43-426a-bd08-d02df367d893.png)
+![image](https://user-images.githubusercontent.com/54443903/160151876-8ada15fe-5aed-44fe-9c38-036309fb912f.png)
+![image](https://user-images.githubusercontent.com/54443903/160151893-87872df7-1c06-413e-953e-9e3701c29f64.png)
+![image](https://user-images.githubusercontent.com/54443903/160151914-3e7dce4d-82e2-4ce7-99e8-115f6f687971.png)
+![image](https://user-images.githubusercontent.com/54443903/160151924-42918628-880e-4d3f-b008-3afe76c1e9ad.png)
+![image](https://user-images.githubusercontent.com/54443903/160151934-c549ddce-ac88-4ba2-b555-c46db97801be.png)
